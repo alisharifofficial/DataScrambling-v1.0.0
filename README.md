@@ -1,6 +1,6 @@
 # Personal Data Scrambler
 
-A Python tool with a graphical user interface to scramble sensitive data in CSV and Excel files.
+A Python tool with a graphical user interface to scramble data in CSV and Excel files.
 
 ## License
 
